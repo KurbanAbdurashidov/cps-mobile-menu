@@ -73,7 +73,7 @@ a:visited {
 }
 
 .menu {
-	height: 100%;
+	min-height: 100%;
 	width: 320px;
 	position: absolute;
 	left: 0;
